@@ -16,9 +16,12 @@
 
 
 ## Roadmap:
-Stage 1: 分布式动员【燃眉之急，专注连接信息，暂不管分布式技术的采用与否，优先解决眼下的迫切信息痛点】
-Stage 2：实现信息的连接 【分布式连接信息，组建初步分布式信任网络 - distributed information and trust network for Wuhan Relief】
-Stage 3：【分布式地】实现社会援助资源与努力的有效配置，协助救援物流与需求的完整链路？
+### Stage 1: 
+分布式动员【燃眉之急，专注连接信息，暂不管分布式技术的采用与否，优先解决眼下的迫切信息痛点】
+### Stage 2：
+实现信息的连接 【分布式连接信息，组建初步分布式信任网络 - distributed information and trust network for Wuhan Relief】
+### Stage 3：
+【分布式地】实现社会援助资源与努力的有效配置，协助救援物流与需求的完整链路？
 
 
 ## 眼前ver0.1 ( codename: trustless ) 致力于解决的信息痛点：
@@ -41,9 +44,12 @@ Stage 3：【分布式地】实现社会援助资源与努力的有效配置，�
 共同参与信息监督，进行跟踪和验证
 
 ## 我们需要的社区参与者与志愿者
-### Developers：我们的application stack眼下均采取accessible的JS（前端Angular）与Python（后端Flask为主）方便开发者群体为疫情战斗添上力气
-### Operations: 前期我们的目标是构建比较完整的data network与data map，会需要通过扩散来index这些重要的data mapping
-其他：产品，UI/UX
+### Developers：
+我们的application stack眼下均采取accessible的JS（前端Angular）与Python（后端Flask为主）方便开发者群体为疫情战斗添上力气
+### Operations: 
+前期我们的目标是构建比较完整的data network与data map，会需要通过扩散来index这些重要的data mapping
+### 其他：
+产品，UI/UX
 
 ### PWA工具平台可通过: [wuhanrelief.org](https://pwa.wuhanrelief.org) 随时查看使用
 
